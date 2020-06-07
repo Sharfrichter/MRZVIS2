@@ -1,0 +1,4 @@
+﻿  MRZVIS2C.cpp
+D:\000\2 курс решения\МРЗВИС\MRZVIS2C\MRZVIS2C.cpp(122,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\000\2 курс решения\МРЗВИС\MRZVIS2C\MRZVIS2C.cpp(266,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  MRZVIS2C.vcxproj -> D:\000\2 курс решения\МРЗВИС\MRZVIS2C\Debug\MRZVIS2C.exe
